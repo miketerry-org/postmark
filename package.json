@@ -1,0 +1,34 @@
+{
+  "name": "zyx-postmark",
+  "version": "0.20.4",
+  "description": "Postmark and Nodemailer integration with zyx packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketerry-org/zyx-postmark.git"
+  },
+  "keywords": [
+    "ZYX",
+    "nodemailer",
+    "postmark",
+    "send",
+    "email"
+  ],
+  "author": "Mike Terry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miketerry-org/zyx-postmark/issues"
+  },
+  "homepage": "https://github.com/miketerry-org/zyx-postmark#readme",
+  "dependencies": {
+    "nodemailer": "^7.0.5",
+    "nodemailer-postmark-transport": "^6.0.1",
+    "zyx-base": "^0.30.0",
+    "zyx-env": "^0.30.0",
+    "zyx-schema": "^0.30.0",
+    "zyx-system": "^0.30.0"
+  }
+}
