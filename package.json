@@ -26,9 +26,9 @@
   "dependencies": {
     "nodemailer": "^7.0.5",
     "nodemailer-postmark-transport": "^6.0.1",
-    "zyx-base": "^0.30.0",
-    "zyx-env": "^0.30.0",
-    "zyx-schema": "^0.30.0",
-    "zyx-system": "^0.30.0"
+    "zyx-base": "^0.30.1",
+    "zyx-env": "^0.30.1",
+    "zyx-schema": "^0.30.1",
+    "zyx-system": "^0.30.1"
   }
 }
